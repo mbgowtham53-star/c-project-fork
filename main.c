@@ -1,5 +1,5 @@
-#include "biggest3.h"
-#include "factorial.h"
+#include biggest3(void)
+#include "factorial(void)
 
 int main(void) {
     biggest3();
