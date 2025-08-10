@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main() {
+void factorial(void) {
     int n, i;
     unsigned long long fact = 1;
     printf("Enter an integer: ");
@@ -15,6 +15,5 @@ int main() {
         printf("Factorial of %d = %llu", n, fact);
     }
 
-    return 0;
 }
 
