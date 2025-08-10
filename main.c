@@ -1,5 +1,6 @@
-#include biggest3(void)
-#include "factorial(void)
+// Function declarations
+void biggest3(void);
+void factorial(void);
 
 int main(void) {
     biggest3();
