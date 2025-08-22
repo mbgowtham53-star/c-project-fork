@@ -5,7 +5,7 @@ void factorial(void) {
     printf("Enter an integer: ");
     scanf("%d", &n);
 
-    // shows error if the user enters a negative integer
+    // shows error if the user enters a negative integersd
     if (n < 0)
         printf("Error! Factorial of a negative number doesn't exist.");
     else {
