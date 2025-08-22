@@ -1,4 +1,4 @@
-// Function declarationsed
+// Function declaration
 void biggest3(void);
 void factorial(void);
 
